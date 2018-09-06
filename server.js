@@ -1,3 +1,4 @@
+/*
 var http = require('http');
 var server = http.createServer();
 function control(petic, resp) {
@@ -7,3 +8,6 @@ resp.end();
 }
 server.on('request', control);
 server.listen(80);
+*/
+
+console.log("hola trolo");
